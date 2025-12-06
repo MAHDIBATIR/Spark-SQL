@@ -1,6 +1,6 @@
 # TP 3: Spark SQL - Rapport
 
-**Étudiant:** [Votre Nom]  
+**Étudiant:** Elbatir elmahdi 
 **Date:** 6 Décembre 2025
 
 ---
