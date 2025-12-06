@@ -1,0 +1,41 @@
+id,titre,description,service,date
+1,Panne électrique,Coupure de courant dans le secteur A,Maintenance,2023-01-15
+2,Fuite d'eau,Fuite détectée au niveau 2,Plomberie,2023-01-20
+3,Erreur système,Système de contrôle défaillant,IT,2023-02-10
+4,Equipement défectueux,Machine de production en panne,Maintenance,2023-02-15
+5,Problème réseau,Connexion internet instable,IT,2023-03-05
+6,Surchauffe,Température élevée dans la salle des machines,Maintenance,2023-03-12
+7,Alarme incendie,Détecteur défectueux,Sécurité,2023-04-08
+8,Fuite de gaz,Détection de gaz anormal,Sécurité,2023-04-22
+9,Panne climatisation,Climatisation ne fonctionne pas,Maintenance,2023-05-10
+10,Erreur logiciel,Bug dans l'application de gestion,IT,2023-05-18
+11,Equipement défectueux,Convoyeur en panne,Maintenance,2023-06-02
+12,Problème électrique,Court-circuit détecté,Maintenance,2023-06-15
+13,Fuite d'eau,Robinet défectueux,Plomberie,2023-07-05
+14,Incident sécurité,Accès non autorisé,Sécurité,2023-07-20
+15,Panne serveur,Serveur principal hors ligne,IT,2023-08-10
+16,Défaillance capteur,Capteur de température défaillant,Maintenance,2023-08-25
+17,Problème ventilation,Ventilateur en panne,Maintenance,2023-09-08
+18,Erreur base de données,Corruption de données,IT,2023-09-22
+19,Fuite hydraulique,Système hydraulique défaillant,Maintenance,2023-10-05
+20,Alarme défectueuse,Système d'alarme ne répond pas,Sécurité,2023-10-18
+21,Panne électrique,Disjoncteur déclenché,Maintenance,2024-01-12
+22,Erreur système,Crash du système de monitoring,IT,2024-01-28
+23,Equipement défectueux,Pompe en panne,Maintenance,2024-02-14
+24,Problème réseau,Perte de connexion,IT,2024-02-28
+25,Incident sécurité,Détection d'intrusion,Sécurité,2024-03-15
+26,Fuite d'eau,Canalisation percée,Plomberie,2024-03-30
+27,Panne climatisation,Système HVAC défaillant,Maintenance,2024-04-10
+28,Erreur logiciel,Mise à jour échouée,IT,2024-04-25
+29,Défaillance électrique,Panne de transformateur,Maintenance,2024-05-08
+30,Problème sécurité,Caméra de surveillance HS,Sécurité,2024-05-22
+31,Panne réseau,Routeur défaillant,IT,2024-06-05
+32,Equipement défectueux,Compresseur en panne,Maintenance,2024-06-18
+33,Fuite chimique,Déversement détecté,Sécurité,2024-07-02
+34,Problème électrique,Fluctuation de tension,Maintenance,2024-07-15
+35,Erreur système,Système de backup défaillant,IT,2024-08-01
+36,Incident incendie,Fumée détectée,Sécurité,2024-08-20
+37,Panne mécanique,Moteur défaillant,Maintenance,2024-09-05
+38,Problème logiciel,Application plantée,IT,2024-09-18
+39,Fuite d'air,Compresseur fuit,Maintenance,2024-10-10
+40,Défaillance sécurité,Badge d'accès non fonctionnel,Sécurité,2024-10-25
